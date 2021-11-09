@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color:black;
+}
+
+p{
+ font-family: 'Poppins', sans-serif;
+    font-weight: normal;   
+}

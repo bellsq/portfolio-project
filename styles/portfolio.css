@@ -61,3 +61,28 @@ p{
     padding: 15px 30px;
 
 }
+
+.service-description {
+    padding: 120px 60px;
+}
+
+@media(max-width:900px) {
+
+    hero {
+        padding:80px 20px;
+    }
+
+    .h1 {
+        font-size:40px;
+        line-height: 1.4;
+    }
+
+    .h2 {
+        font-size:32px;
+    }
+    .service-description{
+        padding:0;
+        text-align:center;
+    }
+
+}
